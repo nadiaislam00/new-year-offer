@@ -99,7 +99,7 @@ height: 500px;
 
 .midnight-container{
     width: 100%;
-    width: 1320px;
+    width: 1200px;
 height: 600px;
 margin: 0 auto;
 display: flex;
@@ -139,7 +139,7 @@ font-weight: 400;
 line-height: 30px;
 letter-spacing: 0%;
 text-align: left;
-margin-left: 90px;
+margin-left: 60px;
 }
 .midnight-content .join{
     color: white;
@@ -151,7 +151,7 @@ letter-spacing: 0%;
 text-align: center;
 text-transform: uppercase;
 background: none;
-margin-right: 430px;
+margin-right: 380px;
 cursor: pointer;
 }
 .midnight-image{
@@ -167,7 +167,7 @@ height: 464.65px;
 }
 
 .place{
-    width: 1320px;
+    width: 1200px;
 height: 482px;
 border-radius: 16px;
 background: linear-gradient(180.00deg, rgba(255, 0, 0, 0.1),rgba(255, 0, 0, 0) 100%);
@@ -201,13 +201,14 @@ font-weight: 700;
 margin-top: 48px;
 }
 .best-offer{
-    width: 1320px;
+    width: 1200px;
 height: 463px;
 margin: 0 auto;
 
 margin-top: 60px;
 display: flex;
 justify-content: space-between;
+margin-bottom: 120px;
 }
 .offer-content{
     width: 440px;
@@ -221,16 +222,15 @@ margin-top: 55px;
     border-radius: 50%;
     width: 405px;
 height: 395px;
- margin-left: 20px; */
+margin-left: 170px;
 }
 .offer-image{
-margin-top: 15px;
+
     
     border-radius: 50%;
     width: 364.84px;
 height: 364.84px;
-margin-left: 17px;
-margin-bottom: 2px;
+padding: 15px;
 justify-content: center;
 align-items: center;
 }
@@ -249,7 +249,7 @@ justify-content: center;
 align-items: center;
 }
 .content-2{
-   margin-left: 170px;
+   margin-left: 120px;
     margin-top: 0;
 }
 .text1{
@@ -313,4 +313,83 @@ height: 140px;
 .image2{
     width: 100%;
     height: 100%;
+}
+.holidays-container{
+    width: 1200px;
+    height: 986.07px;
+   
+    margin: 0 auto;
+}
+.holiday-content{
+width: 1068px;
+height: 277px;
+margin: 0 auto;
+text-align: center;
+position: relative; */
+}
+.holiday-content .p1{
+    color: rgb(7, 2, 17);
+font-family: Inter;
+font-size: 24px;
+font-weight: 500;
+line-height: 29px;
+letter-spacing: 0%;
+width: 263px;
+height: 29px;
+margin-left: 400px;
+
+}
+.holiday-content h1{
+    font-family: Merriweather;
+font-size: 72px;
+font-weight: 900;
+line-height: 91px;
+letter-spacing: 0%;
+text-align: center;
+margin-top: 12px;
+margin-bottom: 20px;
+
+}
+.p2{
+    color: rgba(7, 2, 17, 0.6);
+font-family: Inter;
+font-size: 20px;
+font-weight: 500;
+line-height: 32px;
+letter-spacing: 0%;
+text-align: center;
+
+}
+.holidays-container{
+    position: relative; 
+
+}
+.holiday-image .holiday-rec2{
+    position: absolute;
+    top: 79%;
+}
+.holiday-image{
+    width: 1200px;
+    height: 230px;
+}
+.holiday-image img{
+    width: 100%;
+    height: 100%;
+}
+.gift-box{
+    width: 796.46px;
+height: 662.07px;
+position: relative;
+z-index: 1;
+display: flex;
+justify-content: space-between;
+}
+.girl-container{
+   
+}
+.girl-container img{
+    width: 430px;
+    height:430px;
+    position: absolute;
+    
 }
